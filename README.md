@@ -1,3 +1,4 @@
 # About Me
 
-Hi y'all! More information to come.
+- Third-year aerospace engineering student at CU Boulder.
+- That's all I've got for now!
