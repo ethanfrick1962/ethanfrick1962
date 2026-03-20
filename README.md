@@ -1,4 +1,8 @@
 # About Me
 
-- Third-year aerospace engineering student at CU Boulder.
-- That's all I've got for now!
+3rd-Year Aerospace Engineering & Applied Math Student @ CU Boulder. Occasional student pilot.
+
+# Interests
+
+- Control systems and dynamics for air and space vehicles.
+- Weather, ham radio, electronic music production, and sometimes video games.
